@@ -1,0 +1,15 @@
+header{
+    background-color: black;
+    color: rgb(241, 192, 248);
+    text-align: center;
+    word-spacing: 1em;
+}
+main{
+    background-color: rgb(224, 214, 214);
+    margin: 0;
+}
+body{
+    background-image: url(record.png);
+    background-repeat: repeat;
+    padding: 1em;
+}
